@@ -58,6 +58,7 @@ public class recursionMethods{
 			default: 
 				System.out.println("Incorrect input deteced, Type number 1-5");
 		}
+		scanner.close();
 	}
 
 	public static int count8(int n){
